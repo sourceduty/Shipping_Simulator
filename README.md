@@ -8,6 +8,10 @@
 
 The simulator aims to be both educational and challenging, offering step-by-step decision-making exercises. It encourages users to think critically about the impact of their choices on harbor efficiency and overall operations. By simulating real-world conditions and scenarios, the Harbor Simulator provides valuable insights into the complexities of harbor management, helping users develop a deeper understanding of the logistical, operational, and strategic aspects of running a modern harbor.
 
+```
+Simulate managing the operations of an international shipping port or harbor.
+```
+
 #
 ### Related Links
 

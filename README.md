@@ -13,6 +13,10 @@ Simulate managing the operations of an international shipping port or harbor.
 ```
 
 #
+
+![Shipping](https://github.com/user-attachments/assets/936fe808-4e57-44d3-b5ef-8924baab5d28)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)

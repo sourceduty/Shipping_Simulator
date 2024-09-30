@@ -13,6 +13,32 @@ Simulate managing the operations of an international shipping port or harbor.
 ```
 
 #
+### Popular Shipping Ports
+
+This table highlights the busiest ports based on TEU (Twenty-foot Equivalent Units) cargo volumes, reflecting their prominence in global trade.
+
+<br>
+
+| Rank | Port Name               | Location                | Country         | Cargo Volume (TEUs) |
+|------|-------------------------|-------------------------|-----------------|---------------------|
+| 1    | Port of Shanghai         | Shanghai                | China           | 47.0 million        |
+| 2    | Port of Singapore        | Singapore               | Singapore       | 37.2 million        |
+| 3    | Port of Ningbo-Zhoushan  | Zhejiang                | China           | 31.1 million        |
+| 4    | Port of Shenzhen         | Guangdong               | China           | 30.0 million        |
+| 5    | Port of Guangzhou        | Guangdong               | China           | 23.2 million        |
+| 6    | Port of Busan            | Busan                   | South Korea     | 22.9 million        |
+| 7    | Port of Hong Kong        | Hong Kong               | China           | 17.0 million        |
+| 8    | Port of Qingdao          | Shandong                | China           | 18.1 million        |
+| 9    | Port of Tianjin          | Tianjin                 | China           | 18.0 million        |
+| 10   | Port of Rotterdam        | Rotterdam               | Netherlands     | 14.8 million        |
+| 11   | Port of Dubai (Jebel Ali)| Dubai                   | UAE             | 14.1 million        |
+| 12   | Port of Los Angeles      | California              | USA             | 10.7 million        |
+| 13   | Port of Long Beach       | California              | USA             | 8.1 million         |
+| 14   | Port of Tanjung Pelepas  | Johor                   | Malaysia        | 9.1 million         |
+| 15   | Port of Hamburg          | Hamburg                 | Germany         | 8.7 million         |
+
+
+#
 
 ![Shipping](https://github.com/user-attachments/assets/936fe808-4e57-44d3-b5ef-8924baab5d28)
 
